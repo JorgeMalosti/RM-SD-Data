@@ -9,11 +9,7 @@ This repository contains the data and scripts used in the article for feature ex
 
 ## Repository Structure
 
-### 1. Raw Data
-- `raw/` → raw time series of dynamical systems (e.g., logistic map, Hénon map, circle map, Lorenz system, etc.).  
-  These files are used as input to generate the features.
-
-### 2. Features
+### 1. Features
 Extracted features are organized into **Recurrence Microstates (RM)** and **Symbolic Dynamics (SD)**, and further divided by method and number of classes:
 
 ```
@@ -43,7 +39,7 @@ features/
 - `flows/` and `maps/` → different methods used to generate features.  
 - `10_Classes`, `20_Classes`, `40_Classes` → datasets with different numbers of classes.
 
-### 3. Scripts
+### 2. Scripts
 Scripts are organized into:
 
 ```
