@@ -67,11 +67,14 @@ scripts/
 
 
 ## Dynamical Systems Included
+- $\beta$X
+- Gauss Map
 - Logistic Map  
 - Hénon Map  
-- Circle Map  
+- Ikeda Map  
+- Tent Map
 - Lorenz System  
-- (other systems if applicable)
+- Rössler System
 
 ## Features
 - **Recurrence Microstates (RM)**  
@@ -95,7 +98,6 @@ If you use this dataset or scripts, please cite the corresponding article:
 
 **Article Title: Comparison of the performance of features based on Symbolic Dynamics and Recurrence Microstates for time series classification**  
 **Authors: H. C. Costa, J. V. M. Silveira, B. R. R. Boaretto, C.Masoller, S. R. Lopes, T. L. Prado**  
-Journal/Preprint:
-Year:
-DOI: Not available yet
+Journal/Preprint,
+Year and DOI Not available yet
 
