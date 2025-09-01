@@ -1,0 +1,7 @@
+Accuracies:
+Betax = 0.9760
+Gauss = 0.9700
+Henon = 0.7540
+Ikeda = 0.9880
+Logistic = 0.9880
+Tent = 0.7420

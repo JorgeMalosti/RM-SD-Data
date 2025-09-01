@@ -1,0 +1,7 @@
+Metodo	Fluxo	Acuracia
+RM	Lorenz	0.4296
+RM	Rossler	0.9800
+SD	Lorenz	0.4392
+SD	Rossler	0.9256
+RM+SD	Lorenz	0.5080
+RM+SD	Rossler	0.9960
